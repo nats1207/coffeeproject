@@ -6,6 +6,9 @@ This directory serves as a collection of actionable guides and personal developm
 
 *   **`simplify_your_life.md`**: A comprehensive guide featuring actionable, day-to-day tips for decluttering physical space, enhancing mental clarity, automating finances, and managing time and digital habits.
 *   **`blog_posts_ideas.md`**: A list of five engaging blog post concepts derived from the lifestyle tips, designed for content creation and deeper exploration of the habits.
+*   **`homelab_starting_kit.md`**: A beginner's guide to setting up a Raspberry Pi homelab. Covers hardware, OS, networking, recommended services (Pi-hole, Docker, Portainer, Vaultwarden, Home Assistant), and a day-by-day action plan.
+*   **`gemini_cli_architecture_overview.md`**: Reference notes on Gemini CLI agent/skill/tool architecture (informational; not specific to this project's content).
+*   **`AGENTS.md`**: Contributor guidance for Codex-style tooling. Documents project structure, naming conventions, and agent-specific instructions. Keep aligned with `CLAUDE.md` and `GEMINI.md`.
 *   **`GEMINI.md`**: This file, providing context and guidance for future AI interactions within this directory.
 
 ## Usage
